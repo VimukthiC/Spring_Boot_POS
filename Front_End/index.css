@@ -1,0 +1,69 @@
+#section_1 {
+    width: 100vw;
+    height: 100vh;
+    background: url("assests/image/bg1.jpg") no-repeat center;
+    background-size: cover;
+
+}
+
+#logingForm {
+    width: 31rem;
+    height: 35rem;
+    position: relative;
+    border-radius: .25rem;
+    background: #D4D7DC;
+    opacity: 90%;
+    top: 4rem;
+    left: 54rem;
+}
+
+#logingCard {
+    top: 19px;
+    left: 34px;
+    background: #D4D7DC;
+}
+
+#logingH1 {
+    color: rgb(134, 122, 229);
+    font-weight: bolder;
+}
+
+.my-3 {
+    position: relative;
+    top: 10px;
+    left: 36px;
+    margin-right: 58px;
+}
+
+#btnRegistra, #btnSignin {
+    width: inherit;
+}
+
+#btnSignup {
+    right: -187px;
+    top: 16px;
+    position: relative;
+}
+.form-control{
+    padding: 5px;
+}
+#registrationForm{
+    position: relative;
+    top: 77px;
+    left: 753px;
+    width: 710px;
+}
+#registrationDiv{
+    background: #D4D7DC;
+    height: 559px;
+    padding-top: 39px;
+    border-radius: 4px;
+    padding-left: 24px;
+    padding-right: 24px;
+    opacity: 90%;
+}
+#btnSigninReg{
+    position: relative;
+    left: 278px;
+    top: 11px;
+}
